@@ -1,1 +1,1 @@
-print("sentinel-core UPDATE2")
+print("sentinel-core FIX2")
