@@ -1,1 +1,1 @@
-print("sentinel-core INSERT")
+print("sentinel-core UPDATE")
